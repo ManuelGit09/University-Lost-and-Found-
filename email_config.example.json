@@ -1,0 +1,8 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "your-gmail-address@gmail.com",
+  "smtp_pass": "your-16-character-google-app-password",
+  "from_email": "your-gmail-address@gmail.com",
+  "from_name": "UB Find"
+}
